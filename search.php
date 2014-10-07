@@ -3,7 +3,7 @@
  * Parser XML untuk zserver
  * Arie Nugraha 2014
  * dicarve@gmail.com
- *
+ * Aristianto Hakim
  * Simple XML parser untuk zserver
  **/
 // $zserver_url = 'http://lx2.loc.gov:210/lcdb?version=1.1&operation=searchRetrieve&query=dinosaur';
